@@ -598,7 +598,6 @@
 /lib/smf/                                 @sambhurst
 /lib/util/                                @carlescufi @jakub-uC
 /lib/util/fnmatch/                        @carlescufi @jakub-uC
-/lib/gui/                                 @vanwinkeljan
 /lib/open-amp/                            @arnopo
 /lib/os/                                  @dcpleung @nashif @andyross
 /lib/os/cbprintf_packaged.c               @npitre
